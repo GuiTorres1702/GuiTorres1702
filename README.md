@@ -7,11 +7,13 @@
 ## Tecnologias que estou aprendendo!!!
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow">
 
 <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+
+<img align="center" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-Azure&logoColor=black">
 
 </div>
 
